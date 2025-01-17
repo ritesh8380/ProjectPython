@@ -16,4 +16,4 @@ elif info == True :
          print("You Have crack the exam wait for your interveiw call congratulations !") 
 
 #same block of code or related block of code should be at same level to avoid errors
-# nested if alays exactly below so that compiler can understand the following is related to each other   
+#nested if alays exactly below so that compiler can understand the following is related to each other
