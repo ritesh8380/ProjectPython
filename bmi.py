@@ -16,10 +16,3 @@ else :
         print(f"{bmi} is Healthy Body mass index Be happy live long continue exercise")
     else : 
         print(f"{bmi} is Unhealthy Body mass index Be happy live long continue exercise")
-    
-
-
-
-
-
-
