@@ -32,3 +32,19 @@ Input = input("Provide the input i will analyze for digit :\t")
 output = Input.isdigit()
 print(f"{output}") 
 
+#7.name.isalpha() : if only alphabet then true otherwise false
+name = input("Alphabetical input please :\n")
+naam = name.isalpha()
+print(f"{naam}")
+
+#8.name.count("*"):Counts the star character in string
+gin = input("Enter the string contains the * character :\n")
+gin_liya = gin.count("*")
+print(f"{gin_liya} no. of * character in the string")
+
+#9.name.replace('from','to this') Replaces the character or text from the string
+change = input("Tell me the string for replacemet :\n")
+changed = change.replace('*',' ')
+print(f"{changed} is the replaced string")
+
+
