@@ -11,3 +11,6 @@ print(f"Area of the circle is {area} absolutely")
 print(f"Area of circle is {round(area,2)} Approximately")
 print(f"Area of circle is whole numeric form {math.ceil(area)}")
 
+# you can also compare max(x,y,z) it will print the maximum value among the xyz
+# you can also compare min(x,y,z) it will print the minimum value among the xyz 
+
