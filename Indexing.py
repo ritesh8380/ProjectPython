@@ -6,4 +6,5 @@ print(f" \"{string[: :2]}\" is the string at step 2" )
 #python will understand the starting and ending 
 print(f" \"{string[: :-2]}\" is the string at step -2 from another direction")
 print(f" \"{string[: :-1]}\" is the string at step -1 which will ultimately reverse the whole string")
-print(f" XXX-XXX-XXX-{string[12:]}") 
+print(f" XXX-XXX-XXX-{string[12:]}")
+
