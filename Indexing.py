@@ -8,3 +8,5 @@ print(f" \"{string[: :-2]}\" is the string at step -2 from another direction")
 print(f" \"{string[: :-1]}\" is the string at step -1 which will ultimately reverse the whole string")
 print(f" XXX-XXX-XXX-{string[12:]}")
 
+last_digits = string[-3:]
+print(f"XXX-XXX-XXX-{last_digits}")
