@@ -5,7 +5,8 @@ price3 = 1078.994
 print(f"{price1 :.2f} after decimal two numbers are displayed") 
 print(f"{price1 :>20} space will be given before the number 20 character wide")
 print(f"{price1 :<20} space will be given after the number 20 character wide")
-print(f"{price1 :^10} space will be given before and after the number so that it appears to be centred\n")
+print(f"{price1 :^20} space will be given before and after the number so that it appears to be centred\n")
+#if ^20 then 10 front side and 10 backside (for central alignment)
 
 print(f"{price1 :+} + sign will be given to the number")
 print(f"{price2 :+} + sign will be given to the number")
