@@ -56,7 +56,7 @@ for die in range(num_of_dice) : #python dont know the grammer die or dim or even
 
 for each_line_tuple in range(6) :
     for die in dice :
-        print(dice_art.get(die)[each_line_tuple],end="") 
+        print(dice_art.get(die)[each_line_tuple],end="") #Here each_line_tuple is used to print at each line 
     print()
 for die in dice :
     total += die #sum up every die values  
