@@ -21,5 +21,7 @@ def Shipping_address(*names,**Address) : #defined the kwargs and args but args a
      
 
 Shipping_address("Mr","Ritesh","Jeetnarayan","Sharma",
-                 street="Old datta mandir",landmark="gokuldham society",city="Mumbai",country="India",Apartment ="sai shraddha appartment",Postal ="432994")
+                 street="Old datta mandir",landmark="gokuldham society",city="Mumbai",country="India",Apartment ="sai shraddha appartment",Postal ="432994") 
 print()
+
+#Iterables are like when used we get each element at a time example is list,tuple,dictonary etc.
