@@ -10,3 +10,6 @@ def Square(num) :
 
 def Cube(num) :
     return num ** 3 
+
+if __name__== "__main__" :
+    print("Finally you called me!")
